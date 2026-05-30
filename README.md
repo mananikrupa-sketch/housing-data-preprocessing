@@ -18,6 +18,7 @@ This project focuses on cleaning and preprocessing housing affordability data us
 - Renamed columns
 - Performed outlier detection
 - Created visualizations
+- Categorical data to vector(encoding)
 - Saved cleaned dataset
 
 ## Files
